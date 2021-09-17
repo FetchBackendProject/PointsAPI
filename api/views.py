@@ -4,10 +4,10 @@ from django.views.decorators.csrf import csrf_exempt
 import json
 
 people = {
-    # 'KENT':{'points':500, 'transactions':[]},
-    # 'WAYNE':{'points':20000, 'transactions':[]},
-    # 'PARKER':{'points':100, 'transactions':[]},
-    # 'STARK':{'points':5000, 'transactions':[]}
+    'KENT':{'points':500, 'transactions':[]},
+    'WAYNE':{'points':20000, 'transactions':[]},
+    'PARKER':{'points':100, 'transactions':[]},
+    'STARK':{'points':5000, 'transactions':[]}
     }
 
 transactions = {
