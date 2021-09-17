@@ -20,7 +20,7 @@ python3 manage.py runserver
 ```
 
 ## Routes
-The following routes are now active:
+The following routes will be active:
 
 1. Method: POST | http://localhost:8000/add/
 
